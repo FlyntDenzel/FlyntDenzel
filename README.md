@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nchang Denzel</h1>
 <h3 align="center">A passionate game Developer, Blender User and Front End Developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/94662d938159594cd1f1309588cc7360/tumblr_msu2iw8okg1scncwdo1_500.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyntdenzel&label=Profile%20views&color=0e75b6&style=flat" alt="flyntdenzel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/denzelnchang" target="blank"><img src="https://img.shields.io/twitter/follow/denzelnchang?logo=twitter&style=for-the-badge" alt="denzelnchang" /></a> </p>
